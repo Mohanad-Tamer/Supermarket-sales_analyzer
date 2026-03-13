@@ -1,2 +1,4 @@
-# Job-Market-Analyzer
-The Job Market Analyzer is a data engineering project designed to collect, process, and analyze job market data to identify hiring trends, in-demand skills, and salary insights.  The goal of this project is to build a complete data pipeline that transforms raw job postings into structured, analysis-ready data to support data-driven decisions
+# supermarket sales analysis and prediction
+This project analyzes supermarket sales data to extract insights that help support future sales prediction and business decision-making. The focus of the project is on data engineering and data analysis techniques to transform raw sales data into useful information.
+
+The project demonstrates how data can be collected, cleaned, transformed, and analyzed to understand sales trends, product performance, and customer purchasing behavior. These insights can help businesses plan inventory, marketing strategies, and future sales expectations.
